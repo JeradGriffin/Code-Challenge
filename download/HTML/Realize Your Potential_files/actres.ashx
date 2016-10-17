@@ -1,0 +1,1 @@
+Sys.Extended.UI.Localization["en-US"]={ "Calendar_Today": "Today: {0}" }
